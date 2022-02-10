@@ -29,6 +29,7 @@ const languages = {
   koKR: '한국어',
   nlNL: 'Nederlands',
   zhCN: '中文',
+  jaJP: '日本語',
 };
 
 // ignore unused exports default
